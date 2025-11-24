@@ -1,0 +1,27 @@
+# RPG Maker MV cache and auto-generated files
+*.rpgsave
+*.png.cache
+*.ogg.cache
+
+# Local configuration and build output
+/www/save/
+/www/js/plugins.js
+/www/js/pluginsTemp.js
+/www/data/System.json.bak
+
+# Generated deployment files (if you deploy builds here)
+deploy/
+output/
+dist/
+
+# Backup files created by the editor
+Backup/
+*.bak
+
+# Editor specific caches
+Thumbs.db
+.DS_Store
+
+# Node / external dependencies (if you use plugins requiring npm)
+node_modules/
+package-lock.json
